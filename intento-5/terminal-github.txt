@@ -1,2 +1,3 @@
 terminal git a github
 github a terminal git
+terminal git a githb: desde la terminal echo
